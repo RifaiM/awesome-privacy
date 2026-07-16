@@ -596,6 +596,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) – An app to reduce image size and removes exif-tags when sharing images.
 * [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
+* [FileSwift](https://fileswift.app/strip-metadata.html) – A browser-based tool that removes EXIF metadata from JPEG and metadata chunks from PNG images locally without uploading files.
 
 ## Screen recording
 
